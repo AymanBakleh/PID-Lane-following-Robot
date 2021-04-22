@@ -1,5 +1,6 @@
 
-#include <AccelStepper.h>
+#include <AccelStepper.h>//you need the library
+
 AccelStepper LeftBackWheel(1, 2, 5);   // x(Type:driver, STEP, DIR) - Stepper1
 AccelStepper LeftFrontWheel(1, 3, 6);  //y Stepper2
 AccelStepper RightBackWheel(1, 4, 7);  // zStepper3
