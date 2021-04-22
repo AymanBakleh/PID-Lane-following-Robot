@@ -1,5 +1,5 @@
 
-#include <AccelStepper.h>//you need the library
+#include <AccelStepper.h> //you need the library I have added it to the folder
 
 AccelStepper LeftBackWheel(1, 2, 5);   // x(Type:driver, STEP, DIR) - Stepper1
 AccelStepper LeftFrontWheel(1, 3, 6);  //y Stepper2
