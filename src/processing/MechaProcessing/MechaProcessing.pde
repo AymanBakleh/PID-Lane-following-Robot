@@ -9,63 +9,63 @@ void setup() {
   
     font = createFont("calibri light bold", 20);    // custom fonts for buttons and title
   
-  cp5.addButton("w")     //"red" is the name of button
+  cp5.addButton("w")     //"" is the name of button
     .setPosition(180, 0)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
   ; 
     font = createFont("calibri light bold", 20);    // custom fonts for buttons and title
   
-  cp5.addButton("s")     //"red" is the name of button
+  cp5.addButton("s")     //"" is the name of button
     .setPosition(180, 150)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
   ; 
     font = createFont("calibri light bold", 20);    // custom fonts for buttons and title
   
-  cp5.addButton("a")     //"red" is the name of button
+  cp5.addButton("a")     //"" is the name of button
     .setPosition(50, 75)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
   ; 
     font = createFont("calibri light bold", 20);    // custom fonts for buttons and title
   
-  cp5.addButton("d")     //"red" is the name of button
+  cp5.addButton("d")     //"" is the name of button
     .setPosition(310, 75)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
   ; 
-    cp5.addButton("X")     //"red" is the name of button
+    cp5.addButton("X")     //"" is the name of button
     .setPosition(180, 75)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
   ; 
-      cp5.addButton("q")     //"red" is the name of button
+      cp5.addButton("q")     //"" is the name of button
     .setPosition(50, 0)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
   ; 
-      cp5.addButton("z")     //"red" is the name of button
+      cp5.addButton("z")     //"" is the name of button
     .setPosition(50, 150)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
   ; 
-      cp5.addButton("e")     //"red" is the name of button
+      cp5.addButton("e")     //"" is the name of button
     .setPosition(310, 0)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
   ; 
-      cp5.addButton("c")     //"red" is the name of button
+      cp5.addButton("c")     //"" is the name of button
     .setPosition(310, 150)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
   ; 
-      cp5.addButton("j")     //"red" is the name of button
+      cp5.addButton("j")     //"" is the name of button
     .setPosition(500, 75)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
   ; 
-      cp5.addButton("k")     //"red" is the name of button
+      cp5.addButton("k")     //"" is the name of button
     .setPosition(600, 75)  //x and y coordinates of upper left corner of button
     .setSize(120, 70)      //(width, height)
     .setFont(font)
