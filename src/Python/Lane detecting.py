@@ -15,7 +15,7 @@ from picamera.array import PiRGBArray
 output=1
 mystring=""
 deviation=1
-
+#testing git
 
 
 import threading
